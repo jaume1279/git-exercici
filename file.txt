@@ -1,3 +1,5 @@
 
 
-Fichero del ejercicio-Git
+Fichero del ejercicio-Git.
+
+Modifico archivo des de la branch1 y subimos a repositorio.
